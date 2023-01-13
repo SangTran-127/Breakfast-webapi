@@ -1,0 +1,12 @@
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net7.0/BuberBreakfast.Contracts.deps.json
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net7.0/BuberBreakfast.Contracts.dll
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/bin/Debug/net7.0/BuberBreakfast.Contracts.pdb
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.csproj.AssemblyReference.cache
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.AssemblyInfoInputs.cache
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.AssemblyInfo.cs
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.dll
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/refint/BuberBreakfast.Contracts.dll
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/BuberBreakfast.Contracts.pdb
+/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast.Contracts/obj/Debug/net7.0/ref/BuberBreakfast.Contracts.dll

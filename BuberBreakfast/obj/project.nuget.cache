@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "W7xFjKdCgBnAJVHrTZ352S37bCWvjQRlTUiYdvSrXbbZE9/oKw+FJfYt0DPunrKUr4A6tivYrUDjQn54lT2c0g==",
+  "success": true,
+  "projectFilePath": "/home/sangtran/Desktop/Programing/Learning/C#/REST_API_.NET6/BuberBreakfast/BuberBreakfast/BuberBreakfast.csproj",
+  "expectedPackageFiles": [
+    "/home/sangtran/.nuget/packages/erroror/1.2.1/erroror.1.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
